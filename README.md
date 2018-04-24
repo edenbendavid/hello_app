@@ -2,8 +2,8 @@
 
 This is an demo app created in order to complete RailsTutorial.
 
-###Ruby version
+### Ruby version
 2.3.3
 
-##Rails version
+## Rails version
 5.1.2
